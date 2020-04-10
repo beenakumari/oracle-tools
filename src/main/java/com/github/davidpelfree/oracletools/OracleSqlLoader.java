@@ -194,7 +194,7 @@ public final class OracleSqlLoader {
     }
 
     // TODO may add method to parse log file if required
-
+//Please modify for window 32 bit system
     /**
      * Manual test method.
      */
